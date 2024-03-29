@@ -1,3 +1,16 @@
-![WhatsApp Image 2024-03-27 at 12 34 42 PM](https://github.com/ValerieAudry198/02.Layout-Widget/assets/162092701/df1ff08e-8589-41d6-bca5-41a5a6fc8a92)
-![WhatsApp Image 2024-03-27 at 12 34 18 PM](https://github.com/ValerieAudry198/02.Layout-Widget/assets/162092701/66b4dd58-f792-408c-b0bb-c7c790938d13)
-![WhatsApp Image 2024-03-27 at 12 34 03 PM](https://github.com/ValerieAudry198/02.Layout-Widget/assets/162092701/fa239803-aa71-4da5-acba-4e5e95616bfa)
+# tgs_3_pbm
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
